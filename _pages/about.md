@@ -27,8 +27,28 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Mohammed Fajer  
+**Lecturer in Games**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Mohammed Fajer is a computer scientist and academic with a **BSc (Hons) in Computer Science** from the University of Leeds and an **MSc (Hons) in Advanced Computer Science and Artificial Intelligence** from the University of Manchester. He currently lectures in Games, with a focus on core programming disciplines and real-time technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His professional background includes experience as a **Backend Software Developer at AWS**, where he contributed to backend, web, and full-stack systems. His technical expertise includes **engine development**, **systems programming**, **optimization**, **gameplay programming**, and **mathematical and physical simulations**.
+
+Mohammed’s research interests span all facets of **game programming**, from **low-level assembly optimization** to **shader development**, and from **AI for games** to **cross-platform programming**, **real-time rendering**, **game audio**, and **tool development**. He has extensive experience teaching **Unity3D with C#** and **Unreal Engine 5 with C++**, with a strong emphasis on **AI**, **network programming**, and **engine architecture**.
+
+## Teaching Specialisms
+- Computer Graphics  
+- 3D Mathematics for Games  
+- Physics Simulation for Games  
+- Artificial Intelligence  
+- Networking for Games  
+- Engine Architecture  
+- Low-Level System Programming  
+- Unity3D Engine  
+- Unreal Engine 5
+
+## Selected Research Projects
+- *Human-Robot Interaction* – Undergraduate Dissertation (2019–2020)  
+- *Electronic Health Record Web Application with Blockchain Technology* – Master’s Dissertation (2020–2021)
+
+
